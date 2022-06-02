@@ -1,6 +1,6 @@
 # My-News-App
 
-##Stay updated with breaking news, current events & daily news headlines on politics, business, technology, sports, live cricket score & more for India & World. This means discovering, categorizing, and storing news feeds is simply easy.
+## Stay updated with breaking news, current events & daily news headlines on politics, business, technology, sports, live cricket score & more for India & World. This means discovering, categorizing, and storing news feeds is simply easy.
 
 
 Project Overview
